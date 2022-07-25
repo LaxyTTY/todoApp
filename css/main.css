@@ -3,6 +3,7 @@ html, body {
 }
 
 body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   background-color: #E4E5E7;
   padding-top: 30px;
   display: flex;
